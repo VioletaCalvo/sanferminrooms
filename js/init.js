@@ -38,6 +38,3 @@ function initMap() {
 }
 
 google.maps.event.addDomListener(window, "load", initMap);
-
-// Donibane-Lohitzune
-// data=!3m1!4b1!4m5!3m4!1s0xd51117e6a0092db:0x406651748139250!8m2!3d43.388051!4d-1.663055
