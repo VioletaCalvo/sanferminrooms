@@ -1,0 +1,9 @@
+User-agent: Twitterbot
+Disallow: /public/
+
+User-agent:*
+Disallow: /public/
+
+Disallow:
+
+Sitemap: http://www.sanferminrooms.tk/sitemap.xml
